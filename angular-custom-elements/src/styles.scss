@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+
+.wrapper {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 2px solid #000;
+  padding: 0 20px;
+  min-height: 400px;
+
+  h2 {
+    margin-top: 45px;
+  }
+
+  .buttons {
+    margin: 10px 0;
+    
+    button {
+      padding: 5px;
+      font-size: 12px;
+      margin: 0 5px 0 0;
+      cursor: pointer;
+    }
+  }
+}
