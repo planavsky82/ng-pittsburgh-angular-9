@@ -15,8 +15,12 @@ export class ApplicationOneComponent implements OnInit {
 
   ngOnInit() {}
 
-  send(appNumber: number) {
+  sendPlatformMessage(appNumber: number) {
     this.platformService.setServiceMessage(appNumber);
+    alert('Sent!');
+  }
+
+  sendAnyMessage(appNumber: number) {
     this.anyService.setServiceMessage(appNumber);
     alert('Sent!');
   }
