@@ -7,4 +7,4 @@
 
 ## Presentation Slides
 
-[ngPittsburgh - Angular 9 providedIn Features](https://docs.google.com/presentation/d/1gFJ3kIl2qFOe0sXmRukhXuoMQbgZk3uEZGdtod8ZaIM/edit?usp=sharing)
+[ngPittsburgh - Angular 9 providedIn Features](https://docs.google.com/presentation/d/e/2PACX-1vR8KI2GbYMijb7oZ-jJTSBQxIk91Vf0SaeThCie-H6s4fXsJ_2pAZE3I5ka1b09Rc6TWe-Y-fQXIdUC/pub?start=false&loop=false&delayms=15000&slide=id.p)
